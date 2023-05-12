@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oboe Amp</string>
+    <string name="start_effect">Start Amp</string>
+    <string name="stop_effect">Stop Amp</string>
+    <string name="need_record_audio_permission">"This sample needs RECORD_AUDIO permission"</string>
+    <string name="status_record_audio_denied">Error: Permission for RECORD_AUDIO was denied</string>
+    <string name="status_touch_to_begin">RECORD_AUDIO permission granted, touch START to begin</string>
+</resources>
